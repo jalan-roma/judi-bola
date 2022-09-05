@@ -2,12 +2,15 @@
   "name": "judi-bola",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Agen Judi Bola Terbaik dan Terpercaya",
   "keywords": [
-    "syntax",
-    "theme"
+    "Judi Bola",
+    "Agen Bola SBOBET",
+    "agenbola",
+    " judibola",
+    "prediksi parlay bola"
   ],
-  "repository": "https://github.com/atom/judi-bola",
+  "repository": "https://github.com/jalan-roma/judi-bola",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
